@@ -1,12 +1,10 @@
-
-import './App.css';
+import Input from "./input";
 
 function App() {
   return (
     <>
-      <h1>
-      Waqas Fareed
-      </h1></>
+      <Input />
+    </>
   );
 }
 
